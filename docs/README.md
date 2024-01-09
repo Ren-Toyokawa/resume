@@ -40,6 +40,7 @@
 - Jetpack Compose
 - Jetpack Datastore
 - Shared Preferences
+- Paging3
 - Room
 - OkHttp
 - Dagger Hilt
@@ -65,6 +66,11 @@
 また、下記に関して経験があるため、もしプロジェクトで必要であればお役に立てると思います。
 - マルチモジュール化
 - Jetpack Compose の導入
+
+上記に関しては部分的な導入も経験しているため
+- 既存のプロジェクトの構造は壊さず、部分的にマルチモジュール化をしたい
+- Android Viewは残しつつ、新規で作る画面や機能はJetpack Composeで実装したい
+場合もお役に立てると思います。
 
 また、Android開発ほどではないですが、下記も多少の理解があります。
 - Swift
